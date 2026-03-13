@@ -40,7 +40,7 @@ Open separate terminal tabs (or `tmux` panes) and run:
 - **v10s**: `python modules/train.py --model yolov10s.pt --name yolov10s_exp`
 
 > [!WARNING]
-> **GPU VRAM Limit**: Since you have 1 GPU, running all 4 models simultaneously might cause an `Out of Memory` (OOM) error. Monitor your VRAM usage with `nvtop`.
+> **GPU VRAM Limit**: if you have 1 GPU, running all 4 models simultaneously might cause an `Out of Memory` (OOM) error. Monitor your VRAM usage with `nvtop`.
 
 ### 4. Running Inference
 To run inference across multiple weights:
