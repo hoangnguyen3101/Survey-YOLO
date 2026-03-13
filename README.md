@@ -14,7 +14,7 @@ This project is set up to facilitate parallel training and inference of YOLO mod
 
 ## Weights
 
-Pre-trained weights can be found at [Hugging Face](https://huggingface.co/hoangnguyen311111/version_YOLO_with_bdd10k).
+Weights can be found at [Hugging Face](https://huggingface.co/hoangnguyen311111/version_YOLO_with_bdd10k).
 
 ## 🚀 Getting Started
 
