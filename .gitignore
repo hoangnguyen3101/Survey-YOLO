@@ -1,0 +1,21 @@
+# ignore dataset
+data/*
+
+# ignore training results
+runs/*
+
+# keep folder structure
+!data/.gitkeep
+!runs/.gitkeep
+
+# ignore weights
+*.pt
+*.pth
+*.ckpt
+
+# python
+__pycache__/
+*.pyc
+
+# logs
+*.log
