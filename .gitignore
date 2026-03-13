@@ -1,6 +1,6 @@
-# ignore dataset
-data/*
-
+data/bdd100k-10k/test*
+data/bdd100k-10k/train*
+data/bdd100k-10k/val*
 # ignore training results
 runs/*
 

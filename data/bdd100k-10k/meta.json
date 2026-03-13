@@ -1,0 +1,123 @@
+{
+    "classes": [
+        {
+            "title": "bicycle",
+            "shape": "any",
+            "color": "#0082C8",
+            "geometry_config": {},
+            "id": 6509135,
+            "hotkey": ""
+        },
+        {
+            "title": "bus",
+            "shape": "any",
+            "color": "#F032E6",
+            "geometry_config": {},
+            "id": 6509136,
+            "hotkey": ""
+        },
+        {
+            "title": "car",
+            "shape": "any",
+            "color": "#E6194B",
+            "geometry_config": {},
+            "id": 6509132,
+            "hotkey": ""
+        },
+        {
+            "title": "caravan",
+            "shape": "any",
+            "color": "#911EB4",
+            "geometry_config": {},
+            "id": 6509138,
+            "hotkey": ""
+        },
+        {
+            "title": "motorcycle",
+            "shape": "any",
+            "color": "#F58230",
+            "geometry_config": {},
+            "id": 6509137,
+            "hotkey": ""
+        },
+        {
+            "title": "pedestrian",
+            "shape": "any",
+            "color": "#3CB44B",
+            "geometry_config": {},
+            "id": 6509133,
+            "hotkey": ""
+        },
+        {
+            "title": "rider",
+            "shape": "any",
+            "color": "#FABED4",
+            "geometry_config": {},
+            "id": 6509134,
+            "hotkey": ""
+        },
+        {
+            "title": "trailer",
+            "shape": "any",
+            "color": "#46F0F0",
+            "geometry_config": {},
+            "id": 6509140,
+            "hotkey": ""
+        },
+        {
+            "title": "train",
+            "shape": "any",
+            "color": "#DCBEFF",
+            "geometry_config": {},
+            "id": 6509139,
+            "hotkey": ""
+        },
+        {
+            "title": "truck",
+            "shape": "any",
+            "color": "#FFE119",
+            "geometry_config": {},
+            "id": 6509131,
+            "hotkey": ""
+        }
+    ],
+    "tags": [
+        {
+            "name": "info",
+            "value_type": "any_string",
+            "color": "#468A0F",
+            "id": 26828,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "scene",
+            "value_type": "any_string",
+            "color": "#2B0F8A",
+            "id": 26826,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "timeofday",
+            "value_type": "any_string",
+            "color": "#8A450F",
+            "id": 26827,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "weather",
+            "value_type": "any_string",
+            "color": "#8A0F35",
+            "id": 26825,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        }
+    ],
+    "projectType": "images"
+}

@@ -1,0 +1,16 @@
+path: /home/hoangnv/YOLO/data/bdd100k-10k
+train: train/images
+val: val/images
+test: test/images
+
+names:
+  0: bicycle
+  1: bus
+  2: car
+  3: caravan
+  4: motorcycle
+  5: pedestrian
+  6: rider
+  7: trailer
+  8: train
+  9: truck
