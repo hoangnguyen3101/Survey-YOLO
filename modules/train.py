@@ -16,7 +16,7 @@ def main():
     parser.add_argument('--batch', type=int, default=32)
     parser.add_argument('--lr0', type=float, default=0.001, help='initial learning rate')
     parser.add_argument('--lrf', type=float, default=0.01, help='final learning rate (fraction of lr0)')
-    parser.add_argument('--cos_lr', action='store_true', default=True, help='use cosine LR scheduler')
+    parser.add_argument('--cos_lr', action='store_true', default=Flase, help='use cosine LR scheduler')
     args = parser.parse_args()
     
     # Set WANDB project name via environment variable
